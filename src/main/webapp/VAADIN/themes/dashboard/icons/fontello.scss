@@ -43,16 +43,19 @@
 	}
 	
 	@include icon(transactions, '\E808');
-	@include icon(dashboard, '\E809');
+	@include icon(dashboard, '\e808');
 	@include icon(reports, '\e862');	
-	@include icon(schedule, '\e877');
+	@include icon(schedule, '\e818');
 	@include icon(sales, '\e878');
-	@include icon(cog, '\e825');
-	@include icon(cog, '\e825');
+	@include icon(cog, '\e815');
+	@include icon(cog, '\e815');
 	@include icon(user, '\e86b');
 	@include icon(attention, '\e824');
-	@include icon(edit, '\e822');
-	@include icon(bell, '\e85d');
-	@include icon(cancel, '\e867');
+	@include icon(edit, '\e818');
+	@include icon(bell, '\e852');
+	@include icon(cancel, '\e842');
+	@include icon(cliente, '\e845');
+	@include icon(contas, '\e885');
+	@include icon(processos, '\e882');
 	
 }
